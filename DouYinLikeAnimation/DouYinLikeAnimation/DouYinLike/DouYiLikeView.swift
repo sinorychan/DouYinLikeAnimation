@@ -1,5 +1,5 @@
 //
-//  MHLikeView.swift
+//  DouYiLikeView.swift
 //  WisdomGuide
 //
 //  Created by chan on 2019/9/16.

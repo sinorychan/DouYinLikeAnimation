@@ -1,6 +1,6 @@
 //
-//  AnimationProtocol.swift
-//  DouYinLikeAnimation
+//  DouYinBaseAnimation.swift
+//  WisdomGuide
 //
 //  Created by chan on 2019/9/18.
 //  Copyright © 2019 BJMHBT. All rights reserved.
