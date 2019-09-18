@@ -28,7 +28,9 @@ class ViewController: UIViewController {
         if touch.tapCount <= 1 {
             super.touchesBegan(touches, with: event)
         } else {
+            //双击飘心 💗💗
             DouYiLikeAnimation.startWithTouch(touches)
+            //红心点赞动画 💥 
             likeView.startAnimationWithIsLike(true)
         }
     }
