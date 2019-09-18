@@ -60,7 +60,7 @@
 		642FD756233247CA006232F6 /* DouYinLikeAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				642FD76D23324B8E006232F6 /* DouYinLIke */,
+				642FD76D23324B8E006232F6 /* DouYinLike */,
 				642FD757233247CA006232F6 /* AppDelegate.swift */,
 				642FD759233247CA006232F6 /* ViewController.swift */,
 				642FD75B233247CA006232F6 /* Main.storyboard */,
@@ -71,14 +71,14 @@
 			path = DouYinLikeAnimation;
 			sourceTree = "<group>";
 		};
-		642FD76D23324B8E006232F6 /* DouYinLIke */ = {
+		642FD76D23324B8E006232F6 /* DouYinLike */ = {
 			isa = PBXGroup;
 			children = (
 				642FD769233247F2006232F6 /* DouYiLikeView.swift */,
 				642FD76A233247F2006232F6 /* DouYiLikeAnimation.swift */,
 				642FD76F23324BBD006232F6 /* DouYinBaseAnimation.swift */,
 			);
-			path = DouYinLIke;
+			path = DouYinLike;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
