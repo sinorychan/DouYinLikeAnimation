@@ -1,5 +1,5 @@
 # DouYinLikeAnimation
-仿写抖音喜欢点赞动画 支持单击 屏幕触摸 支持自定义图片
+仿写抖音双击点赞动画  红心点赞动画 
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         /// 处理触摸事件 处理单击冲突问题
