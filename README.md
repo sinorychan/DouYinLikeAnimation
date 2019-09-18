@@ -25,4 +25,4 @@
     /// - Parameter tap:
     internal static func startAnimationWithTap(_ tap: UITapGestureRecognizer)
    
-   ![Image text]https://github.com/sinorychan/DouYinLikeAnimation/blob/master/%E5%BF%83%E5%8A%A8%E7%94%BB.gif
+   ![Image text](https://github.com/sinorychan/DouYinLikeAnimation/blob/master/%E5%BF%83%E5%8A%A8%E7%94%BB.gif)
