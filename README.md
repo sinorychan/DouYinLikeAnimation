@@ -7,9 +7,9 @@
         if touch.tapCount <= 1 {
             super.touchesBegan(touches, with: event)
         } else {
-            //飘 💗💗
+            //双击飘心 💗💗
             DouYiLikeAnimation.startWithTouch(touches)
-            //点赞视图 三角爆炸效果 💥 
+            //红心点赞动画 💥 
             likeView.startAnimationWithIsLike(true)
         }
     }
